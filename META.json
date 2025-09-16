@@ -1,0 +1,63 @@
+{
+  "category": "tracing",
+  "created_date": "2025-09-15T22:48:57.818264",
+  "default_ports": [
+    7,
+    5778,
+    6831,
+    6832,
+    9200,
+    14250,
+    14268,
+    16686
+  ],
+  "dependencies": [],
+  "description": "End-to-end distributed tracing system for monitoring and troubleshooting complex microservices architectures. Essential tool for understanding request flows and performance bottlenecks.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/tracing/jaeger",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/tracing/jaeger",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.818284",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "jaeger",
+  "repository_url": "https://github.com/howtomgr/jaeger",
+  "spec_version": "2.0",
+  "subcategory": "tracing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "tracing",
+    "containerization",
+    "orchestration",
+    "observability"
+  ],
+  "title": "Jaeger Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/tracing/jaeger"
+}
